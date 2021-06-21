@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifysnsfedaration2729a4e9": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
